@@ -2,3 +2,6 @@ name: Goblin
 version: '${version}'
 main: org.targermatch.formarkchase.goblin.Goblin
 api-version: '1.16'
+commands:
+  giverole:
+    usage: ee
